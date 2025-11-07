@@ -102,8 +102,8 @@ layers:
   - {t: '-', s: _}
   - {t: '=', s: +}
   - $$mdi:arrow-down-bold$$
-  - {t: '[', s: '{'}
   - {t: ']', s: '}'}
+  - {t: \, s: '|'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:apple-keyboard-control$$
   - {t: '$$mdi:transfer$$', type: trans}
